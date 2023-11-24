@@ -5,3 +5,6 @@ Follow this to get started.
 
 ``pip install -r requirements.txt``
 
+# Command for Running
+python chatgpt.py ``Is epilepsy good?``
+
